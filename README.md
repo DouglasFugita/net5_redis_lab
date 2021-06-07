@@ -11,11 +11,6 @@ Para visualizacao dos dados no Redis foi utilizada a ferramenta RedisInsight, di
 Baseado no artigo "Distributed Caching in ASP.NET Core with Redis" disponivel em https://sahansera.dev/distributed-caching-aspnet-core-redis/
 
 
-First Terminal:
-```
-dotnet run --project basic_demo/Receive/
-```
-
 ## Resources:
 - https://redis.io/
 - https://reqres.in
